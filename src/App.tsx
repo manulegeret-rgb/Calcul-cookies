@@ -42,7 +42,7 @@ const lockedIngredients: Ingredient[] = [
   { name: "Sucre",               unit: "g",  gramsPerUnit: 1,   baseQty: 85,  unitPrice: 0.0015 },   // 1,50 €/kg
   { name: "Farine",              unit: "g",  gramsPerUnit: 1,   baseQty: 150, unitPrice: 0.00085 },  // 0,85 €/kg
   { name: "Pépites de chocolat", unit: "g",  gramsPerUnit: 1,   baseQty: 100, unitPrice: 0.02 },     // 20,00 €/kg
-  { name: "Sucre vanillé",       unit: "g",  gramsPerUnit: 1,   baseQty: 8,   unitPrice: 0.03 },     // 30,00 €/kg
+  { name: "Sucre vanillé",       unit: "g",  gramsPerUnit: 1,   baseQty: 8,   unitPrice: 0.0105 },   // 10.50 €/kg
   { name: "Levure chimique",     unit: "g",  gramsPerUnit: 1,   baseQty: 4,   unitPrice: 0.00845 },  // 8,45 €/kg
   { name: "Sel fin",             unit: "g",  gramsPerUnit: 1,   baseQty: 4,   unitPrice: 0.001 },    // 1,00 €/kg
 ];
