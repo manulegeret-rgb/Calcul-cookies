@@ -57,10 +57,10 @@ const defaultParams = {
   litersPerBase: 0.02,
   waterPricePerM3: 4.0,
   laborMinPerBase: 45,
-  laborHourly: 20,
+  laborHourly: 0,
   packCostPerCookie: 0.10,
   overheadPct: 10,
-  marginPct: 30,
+  marginPct: 50.07,
   vatPct: 5.5,
 };
 
