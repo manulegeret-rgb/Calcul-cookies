@@ -60,7 +60,7 @@ const defaultParams = {
   laborHourly: 0,
   packCostPerCookie: 0.10,
   overheadPct: 10,
-  marginPct: 50.07,
+  marginPct: 50.7,
   vatPct: 5.5,
 };
 
